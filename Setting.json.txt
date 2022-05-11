@@ -1,0 +1,45 @@
+1.  "editor.fontLigatures": true,
+2.  caret
+3.
+{
+    "editor.renderWhitespace": "none",
+    "editor.suggestSelection": "first",
+    
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui,'Roboto Mono', 'Arial', 'Ubuntu', 'Droid Sans', sans-serif",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    // "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "'Fira Code',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 100,
+    "editor.linkedEditing": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Dracula",
+    "php.validate.executablePath": "",
+    
+}
